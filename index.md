@@ -4,7 +4,7 @@
 
 layout: page
 ---
-👋, I am Ankit Pandey.
+👋, I am Ankit Pandey
 
 - [writing](https://ankitpandey2708.github.io/posts/).
 
